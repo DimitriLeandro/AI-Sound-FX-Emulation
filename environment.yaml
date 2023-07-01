@@ -229,5 +229,6 @@ dependencies:
   - zlib=1.2.13=h5eee18b_0
   - zstd=1.5.5=hc292b87_0
   - pip:
+      - pedalboard==0.7.4
       - pyqt5-sip==12.11.0
 prefix: /home/dimitri/miniconda3/envs/venv_tg
