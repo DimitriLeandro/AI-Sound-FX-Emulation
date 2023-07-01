@@ -10,27 +10,27 @@
             "release_ms": 250
         },
         "Chorus": {
-            "rate_hz": 0.8,
-            "depth": 0.25,
+            "rate_hz": 1,
+            "depth": 0.3,
             "centre_delay_ms": 7,
             "feedback": 0.05,
-            "mix": 0.4
+            "mix": 0.6
         },
         "Distortion": {
             "drive_db": 14
         },
         "Reverb": {
-            "room_size": 0.8,
-            "damping": 0.4,
-            "wet_level": 0.7,
-            "dry_level": 0.3,
+            "room_size": 1,
+            "damping": 0.3,
+            "wet_level": 0.8,
+            "dry_level": 0.2,
             "width": 0.9
         },
         "LowpassFilter": {
             "cutoff_frequency_hz": 200
         },
         "HighpassFilter": {
-            "cutoff_frequency_hz": 2000
+            "cutoff_frequency_hz": 5000
         }
     }
 }
