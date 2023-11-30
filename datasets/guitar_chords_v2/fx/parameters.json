@@ -20,7 +20,7 @@
             "drive_db": 14
         },
         "Reverb": {
-            "room_size": 1,
+            "room_size": 0.9,
             "damping": 0.3,
             "wet_level": 0.8,
             "dry_level": 0.2,
