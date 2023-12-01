@@ -9,3 +9,11 @@
 ### 3) apply_original_effects.ipynb:
 
     This Jupyter Notebook aims to apply the original effects on the Guitar Chords v2 Dataset. Audio inputs: /datasets/guitar_chords_v2/preprocessed_original/audio_files/. Audio outputs: /datasets/guitar_chords_v2/fx/audio_files/.
+
+### 4) impulse_response_and_convolution.ipynb:
+
+    This Jupyter Notebook aims to generate an impulse response for each fx described in /datasets/guitar_chords_v2/fx/parameters.json and simulate them using convolutons. Audio inputs: /datasets/guitar_chords_v2/preprocessed_original/audio_files/ Outputs: /datasets/guitar_chords_v2/impulse_response_emulation/audio_files/
+
+### 5) compare_original_fx_with_ir_emulation.ipynb:
+
+    This Jupyter Notebook aims to compare the original fx results with the IR emulation results for each FX. The metrics used for comparison are described in this file.
