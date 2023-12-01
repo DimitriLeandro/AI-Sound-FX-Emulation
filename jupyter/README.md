@@ -1,6 +1,6 @@
 ### 1) guitar_chords_dataset_analysis.ipynb: 
 
-    This Jupyter Notebook aims to explore the characteristics of the Guitar Chords v2 dataset. It was found that there were both mono and stereo audio files in the Guitar Chords v2 dataset. The majority of the audio was sampled at 16 kHz, but approximately 2/3 of the files were at 44100 Hz. The distribution of the duration time is random, with some audio files being less than 2 seconds long and others nearly 12 seconds long. The only consistent pattern observed was in the bit depth, as all audio files were in PCM_16.
+    This Jupyter Notebook aims to explore the characteristics of the Guitar Chords v2 dataset. It was found that there were both mono and stereo audio files in the Guitar Chords v2 dataset. The majority of the audio was sampled at 16 kHz, but approximately 2/3 of the files were at 44100 Hz. The distribution of the duration time is random, with some audio files being less than 2 seconds long and others nearly 15 seconds long. The only consistent pattern observed was in the bit depth, as all audio files were in PCM_16.
 
 ### 2) dataset_preprocessing.ipynb:
 
