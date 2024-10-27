@@ -29,3 +29,7 @@
 # Part II:
 
     Everything in this project's part is related to the 34 minutes guitar recording. Some jupyters might seem the same as the ones used in the previous part.
+    
+### 7) guitar_recording_ir_emulation.ipynb:
+    
+    This Notebook aims to convolve the Cakewalk's FXs chain IR and the guitar recording's validation set in order to retrieve the FXs IR emulation. The emulation output is stored in /datasets/guitar_recording/validation/ir_emulation_validation_output.wav.
