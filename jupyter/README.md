@@ -14,6 +14,11 @@
 
     This Jupyter Notebook aims to generate an impulse response for each fx described in /datasets/guitar_chords_v2/fx/parameters.json and simulate them using convolutons. Audio inputs: /datasets/guitar_chords_v2/preprocessed_original/audio_files/ Outputs: /datasets/guitar_chords_v2/impulse_response_emulation/audio_files/
 
-### 5) compare_original_fx_with_ir_emulation.ipynb:
+### 5) compare_original_fx_with_ir_and_ia_emulation.ipynb:
 
-    This Jupyter Notebook aims to compare the original fx results with the IR emulation results for each FX. The metrics used for comparison are described in this file.
+    This Jupyter Notebook aims to compare the original fx used on Guitar Chords v2 Dataset with the IR emulation and AI emulation results for each FX. The metrics used for comparison are Cossine Similarity and MSE.
+    
+
+### 6) dataset_fold_for_ai.ipynb:
+
+    Lorem ipsum dolor sit amet...
